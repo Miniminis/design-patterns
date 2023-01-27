@@ -1,4 +1,4 @@
-package me.whiteship.designpatterns._04_di;
+package me.whiteship.designpatterns._01_creational_patterns._00_di;
 
 public class DINotApplied {
     public static void main(String[] args) {
